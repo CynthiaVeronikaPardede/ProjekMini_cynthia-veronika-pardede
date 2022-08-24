@@ -4,5 +4,6 @@ public class hello {
         System.out.println("Hello, Kim Namjoon");
         System.out.println("Hello, Suga");
         System.out.println("Hello, jhope");
+        System.out.println("Hello, Kim Seojin");
     }
 }
